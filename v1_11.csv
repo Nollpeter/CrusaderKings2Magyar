@@ -1,0 +1,73 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+MENU_BAR_GAME_CONVERT;Játék exportálása;Exporter une partie;Játék exportálása;;Exportar Partida;;;;;;;;;x
+MENU_BAR_GAME_CONVERT_DEL;Játék exportálása EU4-be;Exporter une partie vers EU4;Játék exportálása EU4-be;;Exportar partuda a EU4;;;;;;;;;x
+BARBER_TOOLTIP;Borbélyhoz menni;Aller chez le barbier;Borbélyhoz menni;;Ir al Peluquero;;;;;;;;;x
+RENAME_TITLE_TOOLTIP;Titulus átnevezése;Renommer titre;Titulus átnevezése;;Renombrar Título;;;;;;;;;x
+CUSTOMIZE_HOUSE_TOOLTIP;Ház testreszabása;Personnaliser dynastie;Ház testreszabása;;Personaliza tu Dinastía;;;;;;;;;x
+CUSTOMIZE_HOUSE_TOOLTIP_DISABLED;Nem szabhatod testre a családod, csak ha te vagy a családfõ.;Vous ne pouvez pas personnaliser cette dynastie car vous devez être le plus haut suzerain de tous ses membres.;Nem szabhatod testre a családod, csak ha te vagy a családfõ.;;No puedes personalizar esta dinastía porque tienes que ser el Señor de todos sus miembros.;;;;;;;;;x
+c_lappland_adj_lappish;Számi;Sami;Számi;;Sápmi;;;;;;;;;x
+RENAME;Átnevez;Renommer;Átnevez;;Renombrar;;;;;;;;;x
+NAME;Név;Nom;Név;;Nombre;;;;;;;;;x
+ADJECTIVE;Melléknév;Gentilé;Melléknév;;Adjetivo;;;;;;;;;x
+POSSIBLE_PLOT_POWER;Cselszövés lehetséges ereje;Puissance de complot possible;Cselszövés lehetséges ereje;;Potencial posible del complot;;;;;;;;;x
+AUTO_INVITE_PLOTTERS;Cselszövõk auto meghívása;Invitation automatique des comploteurs;Cselszövõk auto meghívása;;Autoinvitar conspiradores;;;;;;;;;x
+AUTO_STOP_PLOTS;Cselszövés auto leállítása;Arrêt automatique des complots;Cselszövés auto leállítása;;Autodetener complots;;;;;;;;;x
+AUTO_STOPPED_PLOT_SETUP;Cselszövés feltárva;Complot découvert;Cselszövés feltárva;;Complot descubierto;;;;;;;;x;
+AUTO_STOPPED_PLOT_LOG;§Y$PLOTTER$§!$PLOTTERJOB$ arra törekszik, hogy §Y$PLOTNAME$§!.;§Y$PLOTTER$§!$PLOTTERJOB$ cherche §Y$PLOTNAME$§!.;§Y$PLOTTER$§!$PLOTTERJOB$ arra törekszik, hogy §Y$PLOTNAME$§!.;;§Y$PLOTTER$§!$PLOTTERJOB$ pretende §Y$PLOTNAME$§!.;;;;;;;;x;
+AUTO_STOPPED_PLOT_LETTER;Felfedeztem egy cselszövést, ahol $PLOTTER$ arra törekszik, hogy  $PLOTNAME$. Elküldtem egy futárt hozzá, hogy fejezze be.\n\nAlázatos hírszerzõd,\n$SPYMASTER$;J'ai découvert un complot par lequel $PLOTTER$ cherche à $PLOTNAME$. J'ai dépêché un émissaire pour lui demander de cesser ces agissements sur l'instant. \n\nVotre humble maître-espion,\n$SPYMASTER$;Felfedeztem egy cselszövést, ahol $PLOTTER$ arra törekszik, hogy  $PLOTNAME$. Elküldtem egy futárt hozzá, hogy fejezze be.\n\nAlázatos hírszerzõd,\n$SPYMASTER$;;He descubierto un complot en el que $PLOTTER$ pretende $PLOTNAME$. Le he enviado un emisario para que desista de ello. \n\nTu humilde jefe de espías,\n$SPYMASTER$;;;;;;;;;x
+AUTO_STOP_PLOT_START_SETUP;A hírszerzõ futárokat küld;Le maître-espion envoie des messagers;A hírszerzõ futárokat küld;;El jefe de espías envía emisarios;;;;;;;;;x
+AUTO_STOP_PLOT_START_LOG;$SPYMASTER$ futárokat küldött ki, hogy a cselszövõk felhagyjanak tervükkel;$SPYMASTER$ envoie des émissaires pour faire cesser les complots;$SPYMASTER$ futárokat küldött ki, hogy a cselszövõk felhagyjanak tervükkel;;$SPYMASTER$ envia emisarios para hacer desistir a los conspiradores;;;;;;;;;x
+AUTO_STOP_PLOT_START_LETTER;Futárokat küldtem minden ismert cselszövõnek, hogy hagjynak fel a cselszövéssel.\n\nAlázatos hírszerzõd,\n$SPYMASTER$;J'ai envoyé des émissaires auprès de tous les membres connus du complot afin qu'ils cessent cela immédiatement.\n\nVotre humble maître-espion,\n$SPYMASTER$;Futárokat küldtem minden ismert cselszövõnek, hogy hagjynak fel a cselszövéssel.\n\nAlázatos hírszerzõd,\n$SPYMASTER$;;He enviado emisarios a todos los conspiradores conocidos para que desistan de inmediato.\n\nTu humilde jefe de espías,\n$SPYMASTER$;;;;;;;;;x
+siege_leader;Ostrom vezetõje;Spécialiste des sièges;Ostrom vezetõje;;Líder del Asedio;;;;;;;;;x
+siege_leader_desc;Ez a karakter képzett az ostromokat illetõen.;Ce personnage est particulièrement doué pour mener à bien les sièges;Ez a karakter képzett az ostromokat illetõen.;;Este personaje está especializado en liderar asedios;;;;;;;;;x
+SIEGE;Ostrom;Siège;Ostrom;;Asedio;;;;;;;;;x
+ADD_IP;IP megadása;Ajouter IP;IP megadása;;Añadir IP;;;;;;;;;x
+REMOVE_IP;IP eltávolítása;Retirer IP;IP eltávolítása;;Borrar IP;;;;;;;;;x
+PENDING_PLOT_REQUEST;Várakozás válaszra.;Attend une réponse.;Várakozás válaszra.;;Esperando respuesta.;;;;;;;;;x
+ACCEPTED_PLOT_REQUEST;Cselszövést támogat.;Soutient un complot.;Cselszövést támogat.;;Apoyando un complot.;;;;;;;;;x
+LOADING_TIP_52;Egy kiválasztást tudsz a flottákra végrehajtani az ALT gomb lenyomásával.;Vous pouvez ne sélectionner que vos flottes en utilisant la touche ALT.;Egy kiválasztást tudsz a flottákra végrehajtani az ALT gomb lenyomásával.;;Puedes hacer que la tropa seleccionada se embarque usando simplemente la tecla ALT;;;;;;;;;x
+EXIT;Kilépés;Sortie;Kilépés;;Salir;;;;;;;;;x
+CUT;Vág!;Coupez !;Vág!;;¡Cortar!;;;;;;;;;x
+CONFIRMEXPORTTITLE;Exportáld egy CK2 játékod az EU4-be;Exporter la partie CK2 vers EU4;Exportáld egy CK2 játékod az EU4-be;;Exportar partida a EU4;;;;;;;;;x
+CONFIRMEXPORTTEXT;A játék a $NAME$ néven kerül exportálásra. Ez akár pár percet is igénybe vehet.;La partie va être exportée sous le nom : $NAME$. Cette opération peut prendre quelques minutes.;A játék a $NAME$ néven kerül exportálásra. Ez akár pár percet is igénybe vehet.;;La partida se exportará con el nombre $NAME$. Esta operación puede tardar un par de minutos.;;;;;;;;;x
+CONFIRMEXPORTTEXT_WARNING;A játék a $NAME$ néven kerül exportálásra.\n\n EZ A NÉV MÁR HASZNÁLATBAN VAN!\nBiztos vagy benne hogy folytatod?;La partie va être exportée sous le nom : $NAME$.\n\n CE NOM EXISTE DEJA ! \nÊtes-vous sûr de vouloir continuer ?;A játék a $NAME$ néven kerül exportálásra.\n\n EZ A NÉV MÁR HASZNÁLATBAN VAN!\nBiztos vagy benne hogy folytatod?;;La partida se exportará con el nombre $NAME$.\n\n ¡ESTE NOMBRE YA ESTÁ EN USO!\n¿Seguro que quieres continuar?;;;;;;;;;x
+STYLE;Stílus;Style;Stílus;;Estilo;;;;;;;;;x
+CAN_PERSUADE_TO_JOIN_PLOT;Egy zsák arannyal meggyõzhetõ;Peut être convaincu par une escarcelle d'or...;Egy zsák arannyal meggyõzhetõ;;Puede convencersele con un saco de oro...;;;;;;;;;x
+city_job_chancellor_arabic;Nagyvezír;Grand Vizir;Nagyvezír;;Gran Visir;;;;;;;;;x
+city_job_chancellor_iranian;Nagyvezír;Grand Vizir;Nagyvezír;;Gran Visir;;;;;;;;;x
+city_job_chancellor_turkish;Nagyvezír;Grand Vizir;Nagyvezír;;Gran Visir;;;;;;;;;x
+city_job_chancellor_west_african;Nagyvezír;Grand Vizir;Nagyvezír;;Gran Visir;;;;;;;;;x
+city_job_chancellor_greek;Magistrosz;Maître des offices;Magistrosz;;Magistros;;;;;;;;;x
+city_job_spymaster_greek;Misztikosz;Mystique;Misztikosz;;Mystikos;;;;;;;;;x
+city_job_treasurer_greek;Szakelláriosz;Sacellaire;Szakelláriosz;;Sakellarios;;;;;;;;;x
+city_job_marshal_greek;Sztratégosz;Stratège;Sztratégosz;;Estratega;;;;;;;;;x
+city_job_chancellor_aztec;Cihuacoatl;Cihuacoatl;Cihuacoatl;;Cihuacoatl;;;;;;;;;x
+city_job_treasurer_aztec;Petlacalcatl;Petlacalcatl;Petlacalcatl;;Petlacalcatl;;;;;;;;;x
+city_job_spiritual_aztec;Sahagun;Sahagún;Sahagun;;Sahagun;;;;;;;;;x
+city_job_spymaster_aztec;Tillancalqui;Tillancalqui;Tillancalqui;;Tillancalqui;;;;;;;;;x
+city_job_marshal_aztec;Tlacateccatl;Tlacateccatl;Tlacateccatl;;Tlacateccatl;;;;;;;;;x
+city_job_chancellor_zoroastrian_group;Astabadh;Astabadh;Astabadh;;Astabadh;;;;;;;;;x
+city_job_treasurer_zoroastrian_group;Darik-Pat;Darik-Pat;Darik-Pat;;Darik-Pat;;;;;;;;;x
+city_job_marshal_zoroastrian_group;Eran Spahbod;Eran Spahbod;Eran Spahbod;;Eran Spahbod;;;;;;;;;x
+city_job_spiritual_zoroastrian_group;Mobad;Mobad;Mobad;;Mobad;;;;;;;;;x
+city_job_spiritual_zoroastrian;Mobed;Mobad;Mobed;;Mobad;;;;;;;;;x
+city_job_spiritual_christian;Káplán;Chapelain de la Cour;Káplán;;Capellán;;;;;;;;;x
+city_job_spiritual_orthodox;Eklézsiás;Sacristain;Eklézsiás;;Eclesiarca;;;;;;;;;x
+city_job_spiritual_muslim;Udvari Imám;Imam;Udvari Imám;;Imán de la corte;;;;;;;;;x
+city_job_spiritual_shiite;Udvari Mullah;Mollah;Udvari Mullah;;Mulá de la corte;;;;;;;;;x
+city_job_spiritual_pagan_group;Fõtáltos;Médium en chef;Fõtáltos;;Gran Chamán;;;;;;;;;x
+city_job_spiritual_pagan;Táltos;Devin;Táltos;;Augur;;;;;;;;;x
+city_job_spiritual_baltic_pagan;Táltos;Devin;Táltos;;Augur;;;;;;;;;x
+city_job_spiritual_baltic_pagan_reformed;Táltos;Devin;Táltos;;Augur;;;;;;;;;x
+city_job_spiritual_finnish_pagan;Táltos;Devin;Táltos;;Augur;;;;;;;;;x
+city_job_spiritual_finnish_pagan_reformed;Táltos;Devin ;Táltos;;Augur;;;;;;;;;x
+city_job_spiritual_norse_pagan_reformed;Látnok;Voyant;Látnok;;Vidente;;;;;;;;;x
+city_job_spiritual_norse_pagan;Látnok;Voyant;Látnok;;Vidente;;;;;;;;;x
+city_job_spiritual_female_norse_pagan_reformed;Látnok;Voyante;Látnok;;Vidente;;;;;;;;;x
+city_job_spiritual_female_norse_pagan;Látnok;Voyante;Látnok;;Vidente;;;;;;;;;x
+city_job_spiritual_slavic_pagan;Táltos;Devin;Táltos;;Augur;;;;;;;;;x
+city_job_spiritual_slavic_pagan_reformed;Táltos;Devin;Táltos;;Augur;;;;;;;;;x
+city_job_spiritual_tengri_pagan;Táltos;Devin;Táltos;;Augur;;;;;;;;;x
+city_job_spiritual_tengri_pagan_reformed;Táltos;Devin;Táltos;;Augur;;;;;;;;;x
+EU4ConverterDLC;EUIV Converter;;EUIV Converter;;;;;;;;;;;x
+CustomizationPackDLC;Customization Pack;;Customization Pack;;;;;;;;;;;x

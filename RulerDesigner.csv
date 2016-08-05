@@ -1,0 +1,88 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+RD_APPEARANCE;Kinézet;Apparence;Kinézet;;Apariencia;;;;;;;;;x
+RD_COAT_OF_ARMS;Címer;Écu;Címer;;Escudo de Armas;;;;;;;;;x
+RD_ATTRIBUTES;Jellemzõk;Attributs;Jellemzõk;;Atributos;;;;;;;;;x
+RD_ETHNICITY;Etnikum;Ethnie;Etnikum;;Etnicidad;;;;;;;;;x
+RD_EYES;Szemek;Yeux;Szemek;;Ojos;;;;;;;;;x
+RD_NOSE;Orr;Nez;Orr;;Nariz;;;;;;;;;x
+RD_MOUTH;Száj;Bouche;Száj;;Boca;;;;;;;;;x
+RD_CHIN;Áll;Menton;Áll;;Mentón;;;;;;;;;x
+RD_NECK;Nyak;Cou;Nyak;;Cuello;;;;;;;;;x
+RD_CHEEKS;Arc;Joues;Arc;;Carrillos;;;;;;;;;x
+RD_EARS;Fülek;Oreilles;Fülek;;Orejas;;;;;;;;;x
+RD_EYE_COLOR;Szemszín;Couleur des yeux;Szemszín;;Color de Ojos;;;;;;;;;x
+RD_HAIRSTYLE;Frizura;Coiffure;Frizura;;Peinado;;;;;;;;;x
+RD_HAIR_COLOR;Hajszín;Couleur;Hajszín;;Color de Pelo;;;;;;;;;x
+RD_BEARD;Arcszõrzet;Barbe;Arcszõrzet;;Barba;;;;;;;;;x
+RD_VISUALIZE;Kiegészítõk;Visualiser;Kiegészítõk;;Visualizar;;;;;;;;;x
+RD_CLOTHES;Öltözék;Habits;Öltözék;;Ropajes;;;;;;;;;x
+RD_HEADGEAR;Fejdísz;Couvre-chef;Fejdísz;;Corona;;;;;;;;;x
+RD_AGE;Életkor;Âge;Életkor;;Edad;;;;;;;;;x
+RD_BACKGROUND;Háttér;Décor;Háttér;;Escenario;;;;;;;;;x
+RD_CANCEL;Mégse;Annuler;Mégse;;Cancelar;;;;;;;;;x
+RD_NEXT;Következõ;Suivant;Következõ;;Siguiente;;;;;;;;;x
+RD_LAYOUT;Réteg;Composition;Réteg;;Disposición;;;;;;;;;x
+RD_SLOT_1;Hely 1;I;Hely 1;;Partición 1;;;;;;;;;x
+RD_SLOT_2;Hely 2;II;Hely 2;;Partición 2;;;;;;;;;x
+RD_SLOT_3;Hely 3;III;Hely 3;;Partición 3;;;;;;;;;x
+RD_SLOT_4;Hely 4;IV;Hely 4;;Partición 4;;;;;;;;;x
+RD_COLOR_1;Szín 1;Couleur 1;Szín 1;;Color 1;;;;;;;;;x
+RD_COLOR_2;Szín 2;Couleur 2;Szín 2;;Color 2;;;;;;;;;x
+RD_COLOR_3;Szín 3;Couleur 3;Szín 3;;Color 3;;;;;;;;;x
+RD_EMBLEM;Embléma;Figure;Embléma;;Emblema;;;;;;;;;x
+PORTRAIT_westerngfx;Nyugati;Occidental;Nyugati;;Occidental;;;;;;;;;x
+PORTRAIT_italiangfx;Itáliai;Italien;Itáliai;;Italiano;;;;;;;;;x
+PORTRAIT_byzantinegfx;Bizánci;Byzantin;Bizánci;;Bizantino;;;;;;;;;x
+PORTRAIT_muslimgfx;Muszlim;Musulman;Muszlim;;Musulmán;;;;;;;;;x
+RD_YOUNG;Ifjú;Jeune;Ifjú;;Joven;;;;;;;;;x
+RD_MIDDLEAGED;Középkorú;Adulte;Középkorú;;Adulto;;;;;;;;;x
+RD_OLD;Öreg;Vieux;Öreg;;Anciano;;;;;;;;;x
+coa_party_per_fess;Vízszintes felosztás;Coupé;Vízszintes felosztás;;Armas Partidas;;;;;;;;;x
+coa_party_per_pale;Függõleges felosztás;Parti;Függõleges felosztás;;Armas Tajadas;;;;;;;;;x
+coa_party_per_cross;Negyedelõ felosztás;Écartelé;Negyedelõ felosztás;;Armas Cuarteladas;;;;;;;;;x
+coa_party_triangle;Harmadoló felosztás;Tiercé;Harmadoló felosztás;;Armas Alternas;;;;;;;;;x
+coa_plain;Sima;Plain;Sima;;Liso;;;;;;;;;x
+RD_LINK_PATTERN;Mintázat rögzítése minden helyhez;Lier les motifs sur toutes les partitions;Mintázat rögzítése minden helyhez;;Mismos modelos en todas las particiones;;;;;;;;;x
+RD_LINK_COLOR;Színek rögzítése minden helyhez;Lier les couleurs sur toutes les partitions;Színek rögzítése minden helyhez;;Mismos colores en todas las particiones;;;;;;;;;x
+RD_MARRIED;Pipáld ki, ha szeretnéd, hogy a karakter megházasodva induljon;Cochez si vous voulez que le personnage soit déjà marié.;Pipáld ki, ha szeretnéd, hogy a karakter megházasodva induljon;;Marca si quieres que tu personaje aparezca casado;;;;;;;;;x
+RD_CLEARTRAITS;Minden tulajdonság eltávolítása\nJobb klikk egy tuljadonságon az egyenkénti eltávolításhoz;Retirer tous les traits \nClic droit sur un trait pour le retirer individuellement;Minden tulajdonság eltávolítása\nJobb klikk egy tuljadonságon az egyenkénti eltávolításhoz;;Borrar todos los rasgos\nSelecciona, con el botón derecho, un rasgo para eliminarlo;;;;;;;;;x
+RD_DIPLOMACY;Diplomácia:;Diplomatie :;Diplomácia:;;Diplomacia:;;;;;;;;;x
+RD_MARTIAL;Harcmûvészet:;Martialité :;Harcmûvészet:;;Marcial:;;;;;;;;;x
+RD_STEWARDSHIP;Intézõi képesség:;Intendance :;Intézõi képesség:;;Administración:;;;;;;;;;x
+RD_INTRIGUE;Cselszövés:;Intrigue :;Cselszövés:;;Intriga:;;;;;;;;;x
+RD_LEARNING;Mûveltség:;Érudition :;Mûveltség:;;Aprendizaje:;;;;;;;;;x
+RD_HEALTH;Egészség:;Santé :;Egészség:;;Salud:;;;;;;;;;x
+RD_FERTILITY;Termékenység:;Fertilité :;Termékenység:;;Fertilidad:;;;;;;;;;x
+RD_SONS;Fiúk:;Fils :;Fiúk:;;Hijos:;;;;;;;;;x
+RD_DAUGHTERS;Lányok:;Filles :;Lányok:;;Hijas:;;;;;;;;;x
+RD_FIRST_NAME;Elõnév;Prénom;Elõnév;;Nombre:;;;;;;;;;x
+RD_DYNASTY;Dinasztia;Dynastie;Dinasztia;;Dinastía:;;;;;;;;;x
+RD_MARRIED2;Házas:;Marié :;Házas:;;Casado:;;;;;;;;;x
+RD_CULTURE;Kultúra:;Culture :;Kultúra:;;Cultura:;;;;;;;;;x
+RD_RELIGION;Vallás;Religion :;Vallás;;Religión:;;;;;;;;;x
+RD_EDUCATION;Képzettség;Éducation;Képzettség;;Educacióm;;;;;;;;;x
+RD_TRAITS;Tulajdonság;Traits;Tulajdonság;;Rasgos;;;;;;;;;x
+RD_FINISH;Kész;Terminer;Kész;;Finalizar;;;;;;;;;x
+RD_IS_MALE;A karakter férfi, kattints a megváltoztatáshoz;Le personnage est un homme, cliquez pour avoir une femme.;A karakter férfi, kattints a megváltoztatáshoz;;El personaje es varón, pincha para cambiarlo;;;;;;;;;x
+RD_IS_FEMALE;A karakter nõ, kattints a megváltoztatáshoz;Le personnage est une femme, cliquez pour avoir un homme.;A karakter nõ, kattints a megváltoztatáshoz;;El personaje es hembra, pincha para cambiarlo;;;;;;;;;x
+RD_NOT_PLAYABLE;§REz a vallás nem játszható§!;§RLes personnages de cette religion ne sont pas jouables.§!;§REz a vallás nem játszható§!;;¡§REsta Religión no es jugable§!;;;;;;;;;x
+RD_OPEN_RULER_DESIGNER;Uralkodó szerkesztõ megnyitása;Ouvrir le générateur de personnage;Uralkodó szerkesztõ megnyitása;;Abrir el Editor de Gobernantes;;;;;;;;;x
+RD_CHANGE_GRAPHICAL_CULTURE;Grafikus kultúra megváltoztatása;Changer l’apparence culturelle;Grafikus kultúra megváltoztatása;;Cambiar los gráficos culturales;;;;;;;;;x
+RD_CHANGE_CULTURE;Kultúra megváltoztatása;Changer la culture;Kultúra megváltoztatása;;Cambiar Cultura;;;;;;;;;x
+RD_CHANGE_RELIGION;Vallás megváltoztatása;Changer la religion;Vallás megváltoztatása;;Cambiar Religión;;;;;;;;;x
+RD_CHANGE_EDUCATIONAL_TRAIT;Képzettségi tulajdonság megváltoztatása;Changer le trait d’éducation;Képzettségi tulajdonság megváltoztatása;;Cambiar Rasgo Educacional;;;;;;;;;x
+RD_CUSTOMIZED_AGE;Életkor: $AGE$ ( Max: $MAX$ );Âge : $AGE$ (max. : $MAX$);Életkor: $AGE$ ( Max: $MAX$ );;Edad: $AGE$ ( Max: $MAX$ );;;;;;;;;x
+RD_RANDOMIZE;Véletlenszerû;Générer aléatoirement;Véletlenszerû;;Aleatorio;;;;;;;;;x
+RD_FAIL_AGE;A karakter túl öreg a játék elindításához;Ce personnage est trop vieux pour débuter la partie.;A karakter túl öreg a játék elindításához;;El personaje es demasiado viejo para iniciar el juego;;;;;;;;;x
+RD_FAIL_CHILDREN;A karakter nem elég öreg, hogy ennyi gyermeke lehessen, 16 éves kor felett egy év szükséges gyermekenként;Ce personnage est trop jeune pour avoir autant d’enfants. Il ne peut avoir qu’un enfant par an après ses seize ans.;A karakter nem elég öreg, hogy ennyi gyermeke lehessen, 16 éves kor felett egy év szükséges gyermekenként;;El personaje no es tan viejo como para tener tantos hijos, se necesita un año sobre los 16 por cada hijo;;;;;;;;;x
+RD_EXTRA_CLICK;Kattints a megváltoztatáshoz\nShift-kattintás az x5 effekthez\nCtrl-kattintás az x10 effekthez;Clic gauche pour changer d’un point \nMaj.+Clic : de cinq points \nCtrl+Clic : de dix points;Kattints a megváltoztatáshoz\nShift-kattintás az x5 effekthez\nCtrl-kattintás az x10 effekthez;;Pulsa para cambiar\nPulsa manteniedo Mayúsculas para multiplicar x5 el efecto;;;;;;;;;x
+RD_RESET;Visszaállítás;Réinitialisation;Visszaállítás;;Vuelta al Inicio;;;;;;;;;x
+RD_FAIL_NO_NAME;Meg kell adnod egy elõnevet;Vous devez attribuer un prénom au personnage.;Meg kell adnod egy elõnevet;;Necesitas ponerle un nombre;;;;;;;;;x
+RD_FAIL_NO_DYN_NAME;Meg kell adnod a dinasztia nevét;Vous devez attribuer un nom à la dynastie du personnage.;Meg kell adnod a dinasztia nevét;;Necesitas ponerle una dinastía;;;;;;;;;x
+RD_RULER_DESIGNER;Uralkodó szerkesztõ;Générateur de personnage;Uralkodó szerkesztõ;;Editor de Gobernantes;;;;;;;;;x
+RD_FAIL_NO_UNPLAYABLE;§RNem játszható karakterek nem testreszabhatóak§!;§RImpossible de personnaliser les personnages non jouables§!;§RNem játszható karakterek nem testreszabhatóak§!;;§RNo puedes editar personajes no jugables§!;;;;;;;;;x
+RD_FAIL_NO_DLC;§REnnek a használatához az Uralkodó szerkesztõ szükséges§!;§RNécessite le générateur de personnage (contenu téléchargeable)§!;§REnnek a használatához az Uralkodó szerkesztõ szükséges§!;;¡§RNecesitas el DLC Editor de Gobernantes para usarlo§!;;;;;;;;;x
+RD_FAIL_SAME_NAME;Nem azonos a neve a felülírt karakterével;Ne peut avoir le même nom que le personnage qu’il remplace;Nem azonos a neve a felülírt karakterével;;No puede llamarse igual que el personaje al que estás reemplazando;;;;;;;;;x
+RD_CHANGE_SONS;Megváltoztatja a karakter fiainak számát;Changer le nombre de fils qu’a ce personnage;Megváltoztatja a karakter fiainak számát;;Cambia el número de hijos del personaje;;;;;;;;;x
+RD_CHANGE_DAUGHTERS;Megváltoztatja a karakter lányainak számát;Changer le nombre de filles qu’a ce personnage;Megváltoztatja a karakter lányainak számát;;Cambia el número de hijas del personaje;;;;;;;;;x
+RD_ADD_TRAIT;Tulajdonság hozzáadása;Ajouter un trait;Tulajdonság hozzáadása;;Añadir Rasgo;;;;;;;;;x

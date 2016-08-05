@@ -1,0 +1,9 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+FACTION_LEADERSHIP_CHANGE_SETUP;A frakció új vezetõt kap;La faction a besoin d'un nouveau meneur;A frakció új vezetõt kap;;Esta facción necesita un líder nuevo;;;;;;;;;x
+FACTION_LEADERSHIP_CHANGE_LOG;§Y$CHARNAME$§! lesz a '$OBJECTIVE$' frakciójának új vezetõje.;§Y$CHARNAME$§! est devenu le nouveau meneur de la faction pour '$OBJECTIVE$'.;§Y$CHARNAME$§! lesz a '$OBJECTIVE$' frakciójának új vezetõje.;;§Y$CHARNAME$§! se ha convertido en el nuevo líder de la facción '$OBJECTIVE$';;;;;;;;;x
+BUILDING_PREREQ_FAIL;(§RX§!)§G$BUILDING$§! Megépítve van;(§RX§!) §G$BUILDING$§! déjà construit;(§RX§!)§G$BUILDING$§! Megépítve van;;(§RX§!)Necesita §G$BUILDING$§!;;;;;;;;;x
+IS_NOT_AT_SEA;NEM tengeren található;N'est PAS en mer;NEM tengeren található;;NO está en navegando;;;;;;;;;x
+IS_AT_SEA;Tengeren található;Est en mer;Tengeren található;;Está navegando;;;;;;;;;x
+SongsOfTheRusDLC;Songs of the Rus;Chansons de Russie;Songs of the Rus;;Canciones de Rus;;;;;;;;;x
+RussianUnitPackDLC;Russian Unit Pack;Pack d'Unités Russes;Russian Unit Pack;;Pack de Unidades Rusas;;;;;;;;;x
+RussianPortraitsDLC;Russian Portraits;Portraits Russes;Russian Portraits;;Retratos Rusos;;;;;;;;;x

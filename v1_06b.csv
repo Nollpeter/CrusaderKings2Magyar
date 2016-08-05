@@ -1,0 +1,53 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+TITLE_EMPIRE_CREATION_PIETY_COST;Egy birodalom létrehozásához §R$COST$§! mennyiségû áhitat szükséges.;Vous avez besoin de §R$COST$§! de $PIETYNAME$ pour créer un empire.;Egy birodalom létrehozásához §R$COST$§! mennyiségû áhitat szükséges.;;Necesitas §R$COST$§! de $PIETYNAME$ para crear un Imperio.;;;;;;;;;x
+muslim_invasion_desc;§Y$TARGET$§! nem igaz hitû - ami szükséges §Y$CLAIMANT$§! ügyének, hogy megszerezze §Y$TITLE$§! titulust. Ha sikeres, minden, amit  §Y$TARGET$§! birtokolt §Y$TITLE$§! Jogán, ezentúl hozzá fog tartozni.;§Y$TARGET$§! ne suit pas la vraie foi - c'est suffisant pour que §Y$CLAIMANT$§! envahisse le §Y$TITLE$§!. En cas de succès, tout ce que contrôle §Y$TARGET$§! dans le §Y$TITLE$§! sera capturé ou vassalisé.;§Y$TARGET$§! nem igaz hitû - ami szükséges §Y$CLAIMANT$§! ügyének, hogy megszerezze §Y$TITLE$§! titulust. Ha sikeres, minden, amit  §Y$TARGET$§! birtokolt §Y$TITLE$§! Jogán, ezentúl hozzá fog tartozni.;;§Y$TARGET$§! no es de la verdadera fe - por lo cual §Y$CLAIMANT$§! debe invadir el §Y$TITLE$§!. De tener éxito, todo lo que §Y$TARGET$§! controle dentro del §Y$TITLE$§! será anexionado o vasallizado.;;;;;;;;;x
+duke_female_iranian;Emira;Émirat;Emira;;Emira;;;;;;;;;x
+count_female_iranian;Shaykhah;Cheykha;Shaykhah;;Jequesa;;;;;;;;;x
+baron_female_iranian;Wâlia;Walia;Wâlia;;Valía;;;;;;;;;x
+count_female_arabic;Shaykhah;Cheykha;Shaykhah;;Jequesa;;;;;;;;;x
+baron_female_arabic;Wâlia;Walia;Wâlia;;Valía;;;;;;;;;x
+king_female_turkish;Szultána;Sultane;Szultána;;Sultana;;;;;;;;;x
+duke_female_turkish;Bej;Düses;Bej;;Beylerbeya;;;;;;;;;x
+count_female_turkish;Bayan;Kontes;Bayan;;Beya;;;;;;;;;x
+baron_female_turkish;Timariota;Barones;Timariota;;Timariota;;;;;;;;;x
+job_chancellor_west_african;Nagyvezír;Grand Vizir;Nagyvezír;;Gran Visir;;;;;;;;;x
+emperor_arabic;Badshah;Badshah;Badshah;;Badshah;;;;;;;;;x
+CALIPHA;Kalifa;Califat;Kalifa;;Califa;;;;;;;;;x
+MUSLIM_LAW_PASSED_SETUP;Muszlim Törvény bevezetve;Loi musulmane instituée;Muszlim Törvény bevezetve;;Ley Musulmana Aprobada;;;;;;;;;x
+MUSLIM_LAW_PASSED_LOG;§Y$RULER$§! bevezette a §Y$LAW$§! Törvényt §Y$TITLE$§! titulusára.;§Y$RULER$§! a institué la loi §Y$LAW$§! pour le §Y$TITLE$§!.;§Y$RULER$§! bevezette a §Y$LAW$§! Törvényt §Y$TITLE$§! titulusára.;;§Y$RULER$§! ha instituido la  ley §Y$LAW$§! en §Y$TITLE$§!.;;;;;;;;;x
+DISBAND_EVENT_FORCES;Az esemény során felkelt katonák feloszlanak;Démobiliser les troupes créées par un évènement;Az esemény során felkelt katonák feloszlanak;;Disolver las tropas creadas por evento;;;;;;;;;x
+iqta_contract;Iqta Katonaság;Conscrits de l'Iqtâ;Iqta Katonaság;;Leva Iqtá;;;;;;;;;x
+iqta_contract_desc;Az Iqta Katonaság Törvénye szabályozza a muszlim hûbéresek által névleg biztosítandó katonaság méretét.;Les lois de conscription Iqtâ déterminent le pourcentage de troupes que les vassaux doivent fournir à leur suzerain.;Az Iqta Katonaság Törvénye szabályozza a muszlim hûbéresek által névleg biztosítandó katonaság méretét.;;La ley de levas Iqtá determina la proporción de leva con la que los vasallos Musulmanes tienen que proveer a sus señores.;;;;;;;;;x
+iqta_contract_0;Minimális Iqta Katonaság;Conscrits de l'Iqtâ - Minimum;Minimális Iqta Katonaság;;Leva Iqtá mínima;;;;;;;;;x
+iqta_contract_0_option;Minimális;Min;Minimális;;Mín.;;;;;;;;;x
+iqta_contract_0_desc;A hûbéreseid a katonáik jelentõs többségét megtarthatják maguknak.;Les vassaux doivent mettre à votre disposition la majorité de leurs troupes.;A hûbéreseid a katonáik jelentõs többségét megtarthatják maguknak.;;Los señores vasallos deben proporcionar la mayoría de sus levas.;;;;;;;;;x
+iqta_contract_1;Kevés Iqta Katonaság;Conscrits de l'Iqtâ - Petite Quantité;Kevés Iqta Katonaság;;Leva Iqtá pequeña;;;;;;;;;x
+iqta_contract_1_option;Kevés;Petite quantité;Kevés;;Pequeña;;;;;;;;;x
+iqta_contract_1_desc;A hûbéreseid a katonáik többségét megtarthatják maguknak.;Les vassaux peuvent conserver sous leurs ordres un nombre important de troupes.;A hûbéreseid a katonáik többségét megtarthatják maguknak.;;Los señores vasallos pueden conservar una parte significativa de sus levas.;;;;;;;;;x
+iqta_contract_2;Közepes Iqta Katonaság;Conscrits de l'Iqtâ - Normal;Közepes Iqta Katonaság;;Leva Iqtá normal;;;;;;;;;x
+iqta_contract_2_option;Közepes;Normal;Közepes;;Normal;;;;;;;;;x
+iqta_contract_2_desc;A hûbéreseid a katonáik kis részét tarthatják meg az õrségeik kiegészítésére.;Les vassaux conservent de petites suites mobiles, en plus de leurs garnisons.;A hûbéreseid a katonáik kis részét tarthatják meg az õrségeik kiegészítésére.;;Los señores vasallos conservan un pequeño séquito itinerante además de sus tropas.;;;;;;;;;x
+iqta_contract_3;Maximális Iqta Katonaság;Conscrits de l'Iqtâ - Maximum;Maximális Iqta Katonaság;;Leva Iqtá máxima;;;;;;;;;x
+iqta_contract_3_option;Maximális;Max;Maximális;;Máx.;;;;;;;;;x
+iqta_contract_3_desc;A hûbéreseid a katonáik teljes látszámát a rendelkezésedre bocsájtják.;Les vassaux sont tenus de mettre à disposition toutes leurs troupes.;A hûbéreseid a katonáik teljes látszámát a rendelkezésedre bocsájtják.;;Los señores vasallos están obligados a proporcionar todas sus levas.;;;;;;;;;x
+iqta_tax;Iqta Adózás;Impôts de l'Iqtâ;Iqta Adózás;;Impuesto Iqtá;;;;;;;;;x
+iqta_tax_desc;A keresztény uraktól eltérõen a muszlim hûbérurak nem élveznek mentességet az adófizetés alól.;Contrairement aux seigneurs féodaux chrétiens, les vassaux musulmans ne sont pas exemptés de payer des taxes, bien qu'ils payent moins que les bourgeois;A keresztény uraktól eltérõen a muszlim hûbérurak nem élveznek mentességet az adófizetés alól.;;A diferencia de los señores feudales Cristianos, los vasallos de los señores Musulmanes no están exentos de pagar impuestos, pero pagan menos que los burgueses.;;;;;;;;;x
+iqta_tax_0;Minimális Iqta Adó;Exonération d'impôts de l'Iqtâ;Minimális Iqta Adó;;Impuesto Iqtá mínimo;;;;;;;;;x
+iqta_tax_0_option;Nincs;Exonération;Nincs;;Sin impuestos;;;;;;;;;x
+iqta_tax_0_desc;A hûbérurak mentességet élveznek az adófizetés alól - legfõbb elégedettségükre.;Les vassaux sont exonérés de payer les impôts - ils aiment bien cela.;A hûbérurak mentességet élveznek az adófizetés alól - legfõbb elégedettségükre.;;Los señores feudales están exentos de impuestos. A los señores vasallos les gusta este sistema.;;;;;;;;;x
+iqta_tax_1;Alacsony Iqta Adó;Impôts de l'Iqtâ - Petit;Alacsony Iqta Adó;;Impuesto Iqtá pequeño;;;;;;;;;x
+iqta_tax_1_option;Alacsony;Petit;Alacsony;;Pequeño;;;;;;;;;x
+iqta_tax_1_desc;A hûbéruraktól elvárt egy kisebb összegû hozzájárulás a birodalom javának érdekében. Ezt maguktól el is várják.;Les vassaux sont tenus de verser une petite contribution financière pour le bien du royaume. Ils s'y attendent.;A hûbéruraktól elvárt egy kisebb összegû hozzájárulás a birodalom javának érdekében. Ezt maguktól el is várják.;;Se espera que los señores feudales realicen una pequeña contribución financiera por el bien del reino. Esperan eso.;;;;;;;;;x
+iqta_tax_2;Közepes Iqta Adó;Impôts de l'Iqtâ - Important;Közepes Iqta Adó;;Impuesto Iqtá alto;;;;;;;;;x
+iqta_tax_2_option;Közepes;Important;Közepes;;Alto;;;;;;;;;x
+iqta_tax_2_desc;A hûbéruraktól elvárt egy nagyobb összegû hozzájárulás a birodalom javának érdekében. Ettõl kicsit csalódottak.;Les vassaux sont tenus de verser une importante contribution pour le bien du royaume, ce qu’ils n’apprécient pas vraiment.;A hûbéruraktól elvárt egy nagyobb összegû hozzájárulás a birodalom javának érdekében. Ettõl kicsit csalódottak.;;Se espera que los señores feudales realicen una contribución financiera sustanciosa por el bien del reino. Esta ley no les agrada mucho.;;;;;;;;;x
+iqta_tax_3;Magas Iqta Adó;Impôts de l'Iqtâ - Sévère;Magas Iqta Adó;;Impuesto Iqtá severo;;;;;;;;;x
+iqta_tax_3_option;Magas;Sévère;Magas;;Severo;;;;;;;;;x
+iqta_tax_3_desc;A hûbéruraktól elvárt egy jelentõs összegû hozzájárulás a birodalom javának érdekében.  Ettõl nagyon elégedetlenek.;Les vassaux sont tenus de verser une lourde contribution financière pour le bien du royaume, ce qu’ils n’apprécient vraiment pas.;A hûbéruraktól elvárt egy jelentõs összegû hozzájárulás a birodalom javának érdekében.  Ettõl nagyon elégedetlenek.;;Se espera que los señores feudales realicen una gran contribución financiera por el bien del reino. Están muy descontentos hacia este sistema.;;;;;;;;;x
+controls_mecca_medina;Birtokolja §YMekkát§! és §YMedinát§!\n;Contrôle §YMecca§! et §YMedina§!\n;Birtokolja §YMekkát§! és §YMedinát§!\n;;Controla §YMecca§! Y §YMedina§!\n;;;;;;;;;x
+controls_jerusalem_damascus_baghdad;Birtokolja §YJeruzsálemet§!, §YDamaszkuszt§! és §YBagdadot§!\n;Contrôle §YJerusalem§!, §YDamascus§! et §YBaghdad§!\n;Birtokolja §YJeruzsálemet§!, §YDamaszkuszt§! és §YBagdadot§!\n;;Controla §YJerusalem§!, §YDamascus§! y §YBaghdad§!\n;;;;;;;;;x
+controls_kaliopolis_thrake;Birtokolja §YKaliopoliszt§! és §YTrákiát§!\n;Contrôle §YKaliopolis§! et §YThrake§!\n;Birtokolja §YKaliopoliszt§! és §YTrákiát§!\n;;Controla §YKaliopolis§! y §YThrake§!\n;;;;;;;;;x
+jizya_tax;Haradzs;Djizîa (Impôt);Haradzs;;El impuesto Yizia;;;;;;;;;x
+desc_jizya_tax;A nem muszlim népesség által fizetett adó, mely magasabb a muszlimok által fizetett Zakát adónál ezért növeli a teljes adóbevételt;Impôt spécifique pour les non musulmans. Cette impôt est plus important que le Zakât (aumône) payé par les musulmans et augmente par conséquent les revenus provenant des impôts;A nem muszlim népesség által fizetett adó, mely magasabb a muszlimok által fizetett Zakát adónál ezért növeli a teljes adóbevételt;;La Yizia es un impuesto dirigido a la población no-Musulmana. Este impuesto es mayor que el Azaque pagado por los Musulmanes y por consiguiente aumenta los ingresos provinciales por impuestos.;;;;;;;;;x
+INTERACTION_CANNOT_TRANSFER_DUKES_TO_NON_DJ;Hercegek és más magasabb rangú személyek csak de jure hûbérurukra juttathatóak át;Les ducs et possesseurs de titres plus importants ne peuvent être transférés que sous le contrôle de leur suzerain de jure;Hercegek és más magasabb rangú személyek csak de jure hûbérurukra juttathatóak át;;Los Duques y títulos de mayor rango sólo pueden ser transferidos a su señor de iure;;;;;;;;;x
+ARRANGE_BETROTHAL_INTERACTION_MUSLIM;Javasolod, hogy §Y[ActorExtra.GetTitledFirstName]§W és §Y[RecipientExtra.GetTitledFirstName]§W jegyezzék el egymást.;Proposez que §Y[ActorExtra.GetTitledFirstName]§W et §Y[RecipientExtra.GetTitledFirstName]§W se fiancent.;Javasolod, hogy §Y[ActorExtra.GetTitledFirstName]§W és §Y[RecipientExtra.GetTitledFirstName]§W jegyezzék el egymást.;;Propón que §Y[ActorExtra.GetTitledFirstName]§W y §Y[RecipientExtra.GetTitledFirstName]§W se comprometan.;;;;;;;;;x

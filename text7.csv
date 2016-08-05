@@ -1,0 +1,65 @@
+#CODE;ENGLISH;FRENCH;GERMAN; ;SPANISH;;;;;;;;;x
+WIKIPEDIA_LINK;§YWikipédia hivatkozás§W;§YLien Wikipédia§W;§YWikipédia hivatkozás§W;;§YEnlace a Wikipedia§W;;;;;;;;;x
+WIKIPEDIA_LINK_DESC;Megnyitja a böngészõt a kiválasztott karakter Wikipédia oldalán;Ouvre un navigateur vers la page Wikipedia du personnage;Megnyitja a böngészõt a kiválasztott karakter Wikipédia oldalán;;Abre un enlace en el explorador a la página de Wikipedia de este personaje;;;;;;;;;x
+WIKIPEDIA_LINK_MISSING;§YEnnek a karakternek nincsen Wikipédia oldala§W;§YCe personnage n'a pas de page wikipédia§!;§YEnnek a karakternek nincsen Wikipédia oldala§W;;§YEste personaje no tiene enlace en Wikipedia§W;;;;;;;;;x
+WIKIPEDIA_LINK_DISABLED;Wikipédia hivatkozások kikapcsolva;Les liens wikipedia sont désactivés;Wikipédia hivatkozások kikapcsolva;;Los enlaces a la Wikipedia están desactivados;;;;;;;;;x
+AIREASON_TARGET_HAS_REPENTED_SINS;§Y[GetBestName]§! megbánta [GetPossPronoun] bûneit;§Y[GetBestName]§! s'est récemment repenti de ses péchés;§Y[GetBestName]§! megbánta [GetPossPronoun] bûneit;;§Y[GetBestName]§! se ha arrepentido recientemente de sus [GetPossPronoun] pecados;;;;;;;;;x
+OL_DISABLED_ALERTS;Értesítések kikapcsolva;Alertes déactivées;Értesítések kikapcsolva;;Desactivar Avisos;;;;;;;;;x
+alert_deficits_name;Hiány;Déficits;Hiány;;Déficits;;;;;;;;;x
+alert_country_at_war_name;Háborúban az ország;Pays en guerre;Háborúban az ország;;País en Guerra;;;;;;;;;x
+alert_casus_belli_will_expire_name;Ideiglenes casus belli;Casus belli temporaire;Ideiglenes casus belli;;Casus Belli temporal;;;;;;;;;x
+alert_allies_not_called_in_name;Szövetségesek hadba hívhatóak;Nous pouvons solliciter de l'aide à nos alliés;Szövetségesek hadba hívhatóak;;Podemos llamar a nuestros aliados;;;;;;;;;x
+alert_build_province_improvement_name;Építhetõ területfejlesztések;Peut contruire des améliorations provinciales;Építhetõ területfejlesztések;;Podemos construir mejoras en nuestras provincias;;;;;;;;;x
+alert_troops_in_foreign_territory_name;Katonák idegen területen;Troupes en territoire étranger;Katonák idegen területen;;Tropas en tierras extranjeras;;;;;;;;;x
+alert_revoltrisk_in_provinces_name;Felkelés lehetséges;Révoltes possibles;Felkelés lehetséges;;Posibles revueltas;;;;;;;;;x
+alert_available_decision_name;Fontos döntések;Décisions importantes;Fontos döntések;;Decisiones Importantes;;;;;;;;;x
+alert_noheir_name;Nincs utód;Pas d'héritier;Nincs utód;;No tienes Heredero;;;;;;;;;x
+alert_court_not_filled_name;Szabad hely a tanácsban;Place vacante au Conseil;Szabad hely a tanácsban;;Puestos disponibles en el Consejo;;;;;;;;;x
+alert_lose_title_on_succ_name;Titulus elveszett az öröklés során;Perte de titre lors de la succession;Titulus elveszett az öröklés során;;Título perdido en la Sucesión;;;;;;;;;x
+alert_should_nominate_heir_name;Örökös megnevezés;Nomination d’un successeur;Örökös megnevezés;;Nominar Sucesor;;;;;;;;;x
+alert_you_can_create_titles_name;Titulus hozható létre;Des titres peuvent être créés;Titulus hozható létre;;Puedes crear títulos;;;;;;;;;x
+alert_you_can_usurp_titles_name;Titulus elbitorolható;Des titres peuvent être usurpés;Titulus elbitorolható;;Puedes usurpar títulos;;;;;;;;;x
+alert_ruler_should_marry_name;Egyedülálló uralkodó;Suzerain célibataire;Egyedülálló uralkodó;;Gobernante soltero;;;;;;;;;x
+alert_heir_should_marry_name;Egyedülálló utód;Héritier célibataire;Egyedülálló utód;;Heredero soltero;;;;;;;;;x
+alert_should_appoint_guardian_name;Gyermek gyám nélkül;Enfants sans tuteur;Gyermek gyám nélkül;;Infante sin tutor;;;;;;;;;x
+alert_demesne_too_big_name;Uradalom túl nagy;Domaine trop vaste;Uradalom túl nagy;;Heredad demasiado grande;;;;;;;;;x
+alert_adult_sons_notitle_name;Földnélküli fiúk;Fils sans terres;Földnélküli fiúk;;Hijos sin tierras;;;;;;;;;x
+alert_betrothed_should_marry_name;Jegyes pár frigyre léphet;Les fiancés peuvent se marier;Jegyes pár frigyre léphet;;Prometido se puede casar;;;;;;;;;x
+alert_can_imprison_name;Jogos bebörtönzés;Emprisonnement justifié;Jogos bebörtönzés;;Arresto legítimo;;;;;;;;;x
+alert_titles_may_pass_from_realm_name;Hûbéres örökösítés veszélye;Avertissement sur la succession de certains vassaux;Hûbéres örökösítés veszélye;;Aviso de herencia de vasallos;;;;;;;;;x
+alert_can_call_vassals_to_arms_name;Korábbi urunk hûbéresei behívhatóak;Nous pouvons faire appel à des vassaux de notre ancien suzerain;Korábbi urunk hûbéresei behívhatóak;;Puedes llamar a los vasallos de tu antiguo señor;;;;;;;;;x
+alert_available_plot_name;Új cselszövések elérhetõek;De nouveaux complots sont disponibles;Új cselszövések elérhetõek;;Nuevos complots disponibles;;;;;;;;;x
+alert_vassal_levies_raised_long_name;Hûbéres katonák túl sokáig vannak kiállítva;Les troupes des vassaux sont levées depuis trop longtemps;Hûbéres katonák túl sokáig vannak kiállítva;;Levas de los vasallos reclutadas durante mucho tiempo;;;;;;;;;x
+alert_owns_wrong_settlement_type_name;Uradalom nem megfelelõ birtoktípust tartalmaz;Mauvais type de possession dans le domaine;Uradalom nem megfelelõ birtoktípust tartalmaz;;Tipo de población erróneo en la heredad;;;;;;;;;x
+alert_no_ambition_name;Válassz egy ambíciót;Choisissez une ambition;Válassz egy ambíciót;;Escoge una ambición;;;;;;;;;x
+alert_dejure_claim_name;De jure követelés érvényesítése;Peut revendiquer des titres de Jure;De jure követelés érvényesítése;;Puedes ejercer una reclamación de ducado de iure;;;;;;;;;x
+alert_truce_expiring_name;Fegyverszünet véget ér;Des trêves s'achèvent;Fegyverszünet véget ér;;Finalizando treguas;;;;;;;;;x
+OPINION_OF_ME;Véleménye rólam;Opinion sur moi;Véleménye rólam;;Opinión sobre mi;;;;;;;;;x
+MY_OPINION_OF_CHAR;Az én véleményem $CHAR$ személyérõl;Mon opinion sur $CHAR$;Az én véleményem $CHAR$ személyérõl;;Mi opinión sobre $CHAR$;;;;;;;;;x
+ALERT_DISABLED;Kikapcsolva;Désactivé;Kikapcsolva;;Desactivada;;;;;;;;;x
+ALERT_DISABLED_TOOLTIP;Kikapcsolva\n§YKattintásra újra aktív§!;Désactivé\n§YCliquez pour réactiver§!;Kikapcsolva\n§YKattintásra újra aktív§!;;Desactivada\n§YPincha para activar§!;;;;;;;;;x
+ALERT_DISMISSED;Eltüntetve;Écarté;Eltüntetve;;Descartada;;;;;;;;;x
+ALERT_DISMISSED_TOOLTIP;Eltüntetve\n§YKattintásra újra aktív§!;Écarté\n§YCliquez pour réactiver§!;Eltüntetve\n§YKattintásra újra aktív§!;;Descartada\n§YPincha para activar§!;;;;;;;;;x
+SAME_GUARDIAN_AS;Azonos gyám vele;Même tuteur que ;Azonos gyám vele;;Mismo tutor que ;;;;;;;;;x
+NOT_SAME_GUARDIAN_AS;NEM azonos gyám vele;DIFFERENT tuteur que ;NEM azonos gyám vele;;Distinto tutor que ;;;;;;;;;x
+GARRISON_REINFORCE_PROVINCEVIEW_TOOLTIP;Utánpótlás: §Y+$NUM$§!/hónap;Renforts : §Y+$NUM$§!/mois;Utánpótlás: §Y+$NUM$§!/hónap;;Refuerzos: §Y+$NUM$§!/mes;;;;;;;;;x
+NO_LEVY_REINF_GARRISON;§RKatonák nem kapnak utánpótlást amíg a helyõrség nem teljes§!;§RLes troupes ne se renforceront pas tant que la garnison restera incomplète§!;§RKatonák nem kapnak utánpótlást amíg a helyõrség nem teljes§!;;§RLa leva no se reforzará hasta que la guarnición esté completa§!;;;;;;;;;x
+d_ghilman;Ghilman;Ghulman;Ghilman;;Ghilman;;;;;;;;;x
+d_ghilman_adj;Ghilman;Ghulmane;Ghilman;;Ghulam;;;;;;;;;x
+county_isolated;Elszigetelt grófság;Comté isolé;Elszigetelt grófság;;Condado Aislado;;;;;;;;;x
+TITLE_TIER_IS_LOWER;§Y$NAME$'s§! rangja alacsonyabb, mint §Y$RANK$§! rangja\n;Le rang de §Y$NAME$§! est inférieur à §Y$RANK$§!\n;§Y$NAME$'s§! rangja alacsonyabb, mint §Y$RANK$§! rangja\n;;El rango de §Y$NAME$'s§! es inferior al de §Y$RANK$§!\n;;;;;;;;;x
+TITLE_TIER_IS_NOT_LOWER;§Y$NAME$'s§! rangja NEM alacsonyabb, mint §Y$RANK$§! rangja\n;Le rang de §Y$NAME$§! n'est PAS inférieur à §Y$RANK$§!\n;§Y$NAME$'s§! rangja NEM alacsonyabb, mint §Y$RANK$§! rangja\n;;El rango de §Y$NAME$'s§! NO es inferior al de §Y$RANK$§!\n;;;;;;;;;x
+TITLE_TIER_IS_HIGHER;§Y$NAME$'s§! rangja magasabb, mint §Y$RANK$§! rangja\n;Le rang de §Y$NAME$§! est supérieur à §Y$RANK$§!\n;§Y$NAME$'s§! rangja magasabb, mint §Y$RANK$§! rangja\n;;El rango de §Y$NAME$'s§! es superior al de §Y$RANK$§!\n;;;;;;;;;x
+TITLE_TIER_IS_NOT_HIGHER;§Y$NAME$'s§! rangja NEM magasabb, mint §Y$RANK$§! rangja\n;Le rang de §Y$NAME$§! n'est PAS supérieur à §Y$RANK$§!\n;§Y$NAME$'s§! rangja NEM magasabb, mint §Y$RANK$§! rangja\n;;El rango de §Y$NAME$'s§! NO es superior al de §Y$RANK$§!\n;;;;;;;;;x
+MSG_SETTING_PRIO6;Szünetelteti a játékot.;Mettre le jeu en pause;Szünetelteti a játékot.;;Pausará el juego;;;;;;;;;x
+MSG_SETTING_CLOSE_COL;Ez az oszlop szabályozza ennek az üzenetnek a viselkedését, ha rólad, közeli családtagodról vagy földnélküli családtagokról van szó;Cette colonne contrôle le comportement de ce message vous concernant ou ceux d'un membre de la famille qui est sans fief;Ez az oszlop szabályozza ennek az üzenetnek a viselkedését, ha rólad, közeli családtagodról vagy földnélküli családtagokról van szó;;Esta columna controla el comportamiento de los mensajes que te atañen a ti o a tus familiares cercanos en la Corte;;;;;;;;;x
+MSG_SETTING_OTHER_COL;Ez az oszlop szabályozza ennek az üzenetnek a viselkedését, ha más karaktereket érint az üzenet tartalma.;Cette colonne contrôle le comportement de ce message concernant d'autres personnages;Ez az oszlop szabályozza ennek az üzenetnek a viselkedését, ha más karaktereket érint az üzenet tartalma.;;Esta columna controla el comportamiento de los mensajes que atañen a otros personajes interesantes;;;;;;;;;x
+MSG_SETTING_INTEREST_COL;Ez az oszlop szabályozza ennek az üzenetnek a viselkedését, ha karaktereket különleges prioritással érint;Cette colonne contrôle le comportement du message concernant des personnages importants;Ez az oszlop szabályozza ennek az üzenetnek a viselkedését, ha karaktereket különleges prioritással érint;;Esta columna controla el comportamiento de los mensajes que atañen a personajes marcados como especialmente interesantes;;;;;;;;;x
+MSG_SETTING_CLOSE_BUT;Ez gomb megmutatja ennek az üzenetnek a beállításait, ha rólad, közeli családtagodról vagy földnélküli családtagokról van szó;Ce bouton affiche les options pour les messages vous concernant ou à propos des membres de votre famille sans fief;Ez gomb megmutatja ennek az üzenetnek a beállításait, ha rólad, közeli családtagodról vagy földnélküli családtagokról van szó;;Este botón muestra las opciones para mensajes referentes a tí o a tu familia cercana o en la corte;;;;;;;;;x
+MSG_SETTING_INTEREST_BUT;Ez gomb megmutatja ennek az üzenetnek a beállításait, ha karaktereket különleges prioritással érint;Ce bouton affiche les options pour les messages concernant les personnages importants;Ez gomb megmutatja ennek az üzenetnek a beállításait, ha karaktereket különleges prioritással érint;;Este botón muestra las opciones para mensajes referentes a personajes especialmente interesantes;;;;;;;;;x
+MSG_SETTING_OTHER_BUT;Ez gomb megmutatja ennek az üzenetnek a beállításait, ha más karaktereket érint az üzenet tartalma.;Ce bouton affiche les options pour les messages concernant les personnages anodins;Ez gomb megmutatja ennek az üzenetnek a beállításait, ha más karaktereket érint az üzenet tartalma.;;Este botón muestra las opciones para mensajes referentes a otros personajes interesantes;;;;;;;;;x
+SPECIAL_INTEREST_CHARACTERS;Karakterek különleges prioritással;Personnages importants;Karakterek különleges prioritással;;Personajes especialmente interesantes;;;;;;;;;x
+CIW_MESSAGES;Jelöld be/jelöld ki a különleges prioritású karaktereket;Marquer le personnage comme étant important/anodin ;Jelöld be/jelöld ki a különleges prioritású karaktereket;;Seleccionar/Deseleccionar como personaje especialmente interesante;;;;;;;;;x
+CIW_MESSAGES_DEL;A különleges prioritású karaktereket könyebb nyomonkövetni, mivel van saját kategóriájuk és egyéni üzenet beállításaik.;Les personnages qui sont marqués comme important sont plus faciles à suivre car ils sont dans l'index et ont leur propre configuration de messages;A különleges prioritású karaktereket könyebb nyomonkövetni, mivel van saját kategóriájuk és egyéni üzenet beállításaik.;;Los personajes especialmente interesantes son más fáciles de seguir pues tienen una categoría especial y su propia configuración de mensajes;;;;;;;;;x
+EVTDESC24503;A többi fiam sehol sincsen [From.GetTitledFirstName] képességeihez viszonyítva. Tudja hogyan forgassa a kardot, és nagy [From.GetTitle] lenne a halálom után.;Mes fils survivants, hélas, n'arrivent pas à la cheville de [From.GetTitledFirstName]. Lui, au moins, savait manier l'épée, et aurait été un grand [From.GetTitle] après ma mort.;A többi fiam sehol sincsen [From.GetTitledFirstName] képességeihez viszonyítva. Tudja hogyan forgassa a kardot, és nagy [From.GetTitle] lenne a halálom után.;;El resto de mis hijos ni se acercan a la capacidad de [From.GetTitledFirstName]. Sabía como blandir una espada, y hubiera sido un gran [From.GetTitle] a mi muerte;;;;;;;;;x
+EVTOPTD50006;De… nem én engedtelek szabadon?;Mais... ne t'avais-je pas libéré?;De… nem én engedtelek szabadon?;;Pero... ¿No te había liberado? ;;;;;;;;;x
